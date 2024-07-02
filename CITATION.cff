@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: Data for the reconstruction of a 3D model of CCWM object NMR.41
+message: >-
+  If you use these data, please cite it using the
+  metadata from this file.
+type: dataset
+date-released: 2024-07-02
+authors:
+  - given-names: Daniel
+    family-names: Pett
+    email: dejp3@cam.ac.uk
+    affiliation: 'St Edmund''s College, University of Cambridge'
+    orcid: 'https://orcid.org/0000-0002-0246-2335'
+repository-code: >-
+  https://github.com/portableant/ccwmNMR41
+url: 'https://fitzmuseum.cam.ac.uk'
+abstract: >-
+  This repository holds the data to create a 3d model of an
+  Egyptian object that was on display in the Nicholson Museum, 
+  which is now the Chau Chuk Wing Museum, Sydney. 
+keywords:
+  - 3D
+  - photogrammetry
+  - museum
+  - open-source
+license: CC-BY
+
